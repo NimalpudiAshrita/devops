@@ -1,3 +1,12 @@
+Name:N.Ashrita
+Course:Bca-ds
+Aboot Github:
+to create the repo and edited the file
+
+
+
+
+
 1. Devops Introductiom
  What is DevOps?
   DeOps= Development + Operations 
@@ -23,6 +32,7 @@ PLAN:
 Define what to build 
 Develop :
 Write the code
+
 Build:
 Compile code into  deployable format
 Test:
